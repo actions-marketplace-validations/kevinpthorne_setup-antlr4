@@ -4,7 +4,7 @@ import * as installer from './installer'
 import * as fs from 'fs'
 
 const TOOL_NAME = 'antlr4'
-const VERSION = '4.8'
+const VERSION = '4.9.3'
 
 async function run(): Promise<void> {
   try {
