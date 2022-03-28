@@ -1,5 +1,5 @@
-name: 'Setup ANTLR 4 tool'
-description: 'GitHub Action to download ANTLR 4 jar tool'
+name: 'Setup ANTLR 4.9.3 tool'
+description: 'GitHub Action to download ANTLR 4.9.3 jar tool'
 author: 'Niccolò Maltoni'
 
 runs:
