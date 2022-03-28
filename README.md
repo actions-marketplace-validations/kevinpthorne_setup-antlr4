@@ -1,8 +1,8 @@
-# GitHub Action to setup ANTLR 4.8
+# GitHub Action to setup ANTLR 4.9.3
 
 ![Test action](https://github.com/NiccoMlt/setup-antlr4/workflows/Test%20action/badge.svg)
 
-This action pulls complete ANTLR 4.8 jar and defines `Antlr4ToolPath` environment variable pointing to it.
+This action pulls complete ANTLR 4.9.3 jar and defines `Antlr4ToolPath` environment variable pointing to it.
 Some tools (i.e. [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks)) require this kind of configuration;
 for this kind of usage, it also declares the required `JAVA_EXEC` variable if `JAVA_HOME` is available.
 
